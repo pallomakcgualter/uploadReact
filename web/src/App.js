@@ -1,7 +1,9 @@
+import Upload from "./components/Upload";
+
 function App() {
   return (
     <div className="App">
-        <h1>Working...</h1>
+        <Upload />
     </div>
   );
 }
